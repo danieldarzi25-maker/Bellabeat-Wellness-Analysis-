@@ -15,5 +15,5 @@ The goal is to identify meaningful relationships between variables and communica
 - Engineered helper columns and ensured ISO‑standard formatting for audit‑ready workflow
 - Integrated visuals into a polished final report with clear explanations and insights
 ### Reports
-- [Final Report (PDF)](Bellabeat Wellness Analysis Final Report.pdf)
+- [Final Report (PDF)](Bellabeat_Final_Report.pdf)
 - [ETL / Data Cleaning Report (PDF)](bellabeat_Data_Cleaning_ETL_Report.pdf)
