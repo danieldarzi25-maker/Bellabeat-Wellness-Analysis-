@@ -16,4 +16,4 @@ The goal is to identify meaningful relationships between variables and communica
 - Integrated visuals into a polished final report with clear explanations and insights
 ### Reports
 - [Final Report (PDF)](Final_Report.pdf)
-- [ETL / Data Cleaning Report (PDF)](ETL_Report.pdf)
+- [ETL / Data Cleaning Report (PDF)](bellabeat_Data_Cleaning_ETL_Report.pdf)
