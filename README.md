@@ -14,6 +14,6 @@ The goal is to identify meaningful relationships between variables and communica
 - Built categorical visuals to compare patterns across groups
 - Engineered helper columns and ensured ISO‑standard formatting for audit‑ready workflow
 - Integrated visuals into a polished final report with clear explanations and insights
-###Reports
-- Final Report (PDF)
-- Data Cleaning & Preparation Notes (PDF)
+### Reports
+- [Final Report (PDF)](Final_Report.pdf)
+- [ETL / Data Cleaning Report (PDF)](ETL_Report.pdf)
